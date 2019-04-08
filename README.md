@@ -12,13 +12,13 @@ git config --global
 
 | Comando | Notas |
 |---------|-------|
-|git commit -m "commit inicial"|
-|git push origin master|
-|git add .gitignore|
-|git add datos01.txt|
-|git tag v0.1 -m "primera version"|
+|git commit -m "commit inicial"| realizar un commit
+|git push origin master| realizar un push a repo remoto
+|git add .gitignore| agregar archivo .gitignore
+|git add datos01.txt|agregar archivo <nombre archivo>
+|git tag v0.1 -m "primera version"|agregar un tag
 |git commit -m "Agregando el tag y archivo gitignore"|
-|git push|
+|git checkout -b v0.2| crea y cambia un branch <nombre de branch>
 
 
 ## Compañeros de curso
