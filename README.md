@@ -1,17 +1,14 @@
 # mastermeli
 Repositorio para trabajar en It Academy 2019
 
-git clone https://github.com/juanzan92/mastermeli.git
-
-git config --global user.name "juanzan92"
-git config --global
-
-"Si he visto más lejos es porque estoy sentado sobre los hombros de gigantes”
+"Si he visto más lejos es porque estoy sentado sobre los hombros de gigantes” - Isac Newton
 
 ## Comandos utilizados
 
 | Comando | Notas |
 |---------|-------|
+|git clone https://github.com/juanzan92/mastermeli.git | clonar el repo en maquina local
+|git config --global user.name "juanzan92"| parametros de configuracion de git
 |git commit -m "commit inicial"| realizar un commit
 |git push origin master| realizar un push a repo remoto
 |git add .gitignore| agregar archivo .gitignore
