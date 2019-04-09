@@ -14,7 +14,6 @@ Repositorio para trabajar en It Academy 2019
 |git add .gitignore| agregar archivo .gitignore
 |git add datos01.txt|agregar archivo <nombre archivo>
 |git tag v0.1 -m "primera version"|agregar un tag
-|git commit -m "Agregando el tag y archivo gitignore"|
 |git checkout -b v0.2| crea y cambia un branch <nombre de branch>
 
 
